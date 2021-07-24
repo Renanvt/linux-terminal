@@ -1,8 +1,13 @@
 # Tòpicos
 
 * <a href="linux/OPENDIR.md" target="_self">Abrir uma pasta no modo gráfico no terminal</a>
+
 * <a href="linux/AGENDARTAREFAS.md" target="_self">Agendar tarefas para execução recorrente</a>
+
+
 * <a href="linux/AGENDARTAREFAS2.md" target="_self">Agendar tarefas para execução única</a>
+
+
 * <a href="linux/ALTER-PERMISSAO.md" target="_self">Alterar permissões pelo terminal</a>
 * <a href="linux/ALTERTIMESTAMP.md" target="_self">Alterar timestamp de acesso e modificação de arquivos</a>
 * <a href="linux/UPDATE-DIST.md" target="_self">Atualizar distribuição Linux</a>
