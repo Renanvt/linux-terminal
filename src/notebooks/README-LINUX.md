@@ -1,6 +1,6 @@
 # Tòpicos
 
-* <a href="src/linux/OPENDIR.md" target="_self">Abrir uma pasta no modo gráfico no terminal</a>
+* <a href="/linux/OPENDIR.md" target="_self">Abrir uma pasta no modo gráfico no terminal</a>
 * <a href="src/linux/AGENDARTAREFAS.md" target="_self">Agendar tarefas para execução recorrente</a>
 * <a href="src/linux/AGENDARTAREFAS2.md" target="_self">Agendar tarefas para execução única</a>
 * <a href="src/linux/ALTER-PERMISSAO.md" target="_self">Alterar permissões pelo terminal</a>
