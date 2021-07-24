@@ -1,6 +1,6 @@
 # Tòpicos
 
-* <a href="linux/OPENDIR.md" target="_self">Abrir uma pasta no modo gráfico no terminal</a>
+* ## <a href="linux/OPENDIR.md" target="_self">Abrir uma pasta no modo gráfico no terminal</a>
 
 * <a href="linux/AGENDARTAREFAS.md" target="_self">Agendar tarefas para execução recorrente</a>
 
