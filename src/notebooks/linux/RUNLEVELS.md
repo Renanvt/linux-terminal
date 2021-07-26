@@ -21,6 +21,7 @@ Todo processo linux possui um PID (Process Ident File) Identificador de processo
 # Inicialização do Sistema - Runlevels
 
 Runlevels:
+
 **0** - Sistema Desligado<br/>
 **1, S, s** - Modo Monousuário. Empregado pra fazer manutenção do sistema. Somente o essencial é executado.<br/>
 **2** - Multiusuário; Padrão no Debian. com compartilhamento de arquivos NFS desabilitado.<br/>
