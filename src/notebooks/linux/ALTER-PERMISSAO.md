@@ -14,7 +14,6 @@ Execução = 1
 Escrita = 2
 
 Leitura = 4
-
 <br/>
 rwx
 
@@ -24,7 +23,7 @@ bit 1 - com permissão
 
 bit 0 - sem permissão
 
-
+<br/>
 --x Permisão somente de **execução**
 
 001 = bin-> dec = `1`
@@ -39,7 +38,7 @@ r-- Permissão somente de leitura
 
 Ao total temos 8 valores possíveis de valores de permissões
 
-
+<br/>
 rw- Permissão de **leitura e escrita**
 
 110 = bin -> dec = 4 + 2 = `6`
@@ -48,7 +47,7 @@ rwx - Dar **todas as permissões** de uma vez
 
 111 = bin -> dec = 4 + 2 + 1 = `7`
 
-
+<br/>
 rwxrw-rw-
 
 rwx    rw-    rw-
@@ -60,7 +59,7 @@ rwx    rw-    rw-
 **766** - Proprietário do arquivo tem permissão total, o grupo só de leitura e escrita, e outros de leitura e escrita
 
 
-
+<br/>
 rw-r-----
 
 rw-    r--    ---
