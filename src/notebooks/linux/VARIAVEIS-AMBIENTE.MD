@@ -2,7 +2,9 @@ As variáveis de ambiente permitem mudar o shell de várias formas para adaptá-
 ## Exemplo de variáveis de ambiente:
 
 **PS1**            Prompt da linha de comandos
+
 **HOME**       Diretório /home de um usuário
+
 **PATH**         Lista de diretórios vasculhados quando um comando é executado
 
 # Verificar conteúdo de variáveis de ambiente
