@@ -27,7 +27,7 @@ Ver sua tabela crontab
 # crontab
 
 - Possui seis colunas (campos) com as seguintes informações:
-`Minuto  Hora  Dia  Mês  Dia_Semana  Comando`
+- `Minuto  Hora  Dia  Mês  Dia_Semana  Comando`
 - **Minuto:** Valores de 0 a 59 e o caracter curinga (*) que siginifica qualquer minuto
 - **Hora:** Valores de 0 a 23 ou *
 - **Dia:** Valores de 1 a 31 ou *
