@@ -22,7 +22,7 @@ A página oficial do projeto é http://www.linuxfoundation.org/collaborate/work
 
 
 
-Tudo o que há no seu sistema Linux fica localizado dentro do diretório raiz, representado por **/**. É como se fosse um “**C:\**” do Windows, porém **outras partições** e discos também se localizam sob o diretório raiz no Linux, enquanto no Windows cada partição teria sua própria letra de unidade separada. No Linux, as demais partições se encontram “**montadas**” em **pastas** dentro da hierarquia de diretórios, sob a raiz (**/**).
+Tudo o que há no seu sistema Linux fica localizado dentro do diretório raiz, representado por **/**. É como se fosse um **“C:\”** do Windows, porém **outras partições** e discos também se localizam sob o diretório raiz no Linux, enquanto no Windows cada partição teria sua própria letra de unidade separada. No Linux, as demais partições se encontram “**montadas**” em **pastas** dentro da hierarquia de diretórios, sob a raiz (**/**).
 
 
 Você pode ver diretório raiz do Linux e seu conteúdo básico, listado com o comando
