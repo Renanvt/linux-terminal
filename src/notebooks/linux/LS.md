@@ -12,10 +12,10 @@ Usando **atalhos** do teclado. Pressione as teclas. **Ctrl + Alt + T** . Isso 
 
 # Algumas opções do ls
 
-![Comandols](../../img/comando-ls)
-![Comandols](../../img/comando-ls2)
+![Comandols](../../img/comando-ls.png)
+![Comandols](../../img/comando-ls2.png)
 
 # Status de saída do comando ls:
-![Comandols](../../img/status-saida)
+![Comandols](../../img/status-saida.png)
 
 
