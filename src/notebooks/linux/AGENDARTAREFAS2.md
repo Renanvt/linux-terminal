@@ -42,10 +42,15 @@ Agendar os comandos que estão dentro de um arquivo
 sudo vi agendamento.txt
 ```
 **#Criar diretório**
+
 mkdir /agendamento
+
 **#Vai pro diretório**
+
 cd /agendamento
+
 **#Cria o arquivo**
+
 touch teste-at-OK
 
 ```bash
