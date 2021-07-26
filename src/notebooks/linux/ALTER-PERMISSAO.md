@@ -9,11 +9,8 @@ chmod [permissões] [arquivo ou diretório]
 ```
 
 Permissões:
-
 Execução = 1
-
 Escrita = 2
-
 Leitura = 4
 
 
