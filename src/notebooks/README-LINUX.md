@@ -71,7 +71,7 @@
 
 * ### <a href="linux/VI.md" target="_self">Utilizando o VI</a>
 
-* ### <a href="linux/VARIAVEIS-AMBIENTE.md" target="_self">Variáveis de Ambiente</a>
+* ### <a href="linux/VARIAVEIS-AMBIENTE.MD" target="_self">Variáveis de Ambiente</a>
 
 * ### <a href="linux/LOG-BUFFER.md" target="_self">Visualizar o log do buffer do Kernel do linux</a>
 
