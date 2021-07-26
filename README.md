@@ -1,5 +1,18 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+# Tòpicos
+
+* ## <a href="src/notebooks/README-LINUX.md" target="_self">Linux</a>
+* ## <a href="src/notebooks/README-BD.md" target="_self">Banco de dados</a>
+* ## <a href="src/notebooks/README-REDES.md" target="_self">Configuração de Rede básica</a>
+* ## <a href="src/notebooks/README-EXPR.md" target="_self">Expressões Regulares</a>
+* ## <a href="src/notebooks/README-DISCOS.md" target="_self">Gerenciamento de Discos</a>
+* ## <a href="src/notebooks/README-PACOTES.md" target="_self">Gerenciamento de Pacotes</a>
+* ## <a href="src/notebooks/README-USER-GRP.md" target="_self">Gerenciamento de Usuário e Grupos</a>
+* ## <a href="src/notebooks/README-GRUB.md" target="_self">GRUB</a>
+* ## <a href="src/notebooks/README-NUVEM.md" target="_self">Nuvem e Maquina Virtual</a>
+* ## <a href="src/notebooks/README-DHCP.md" target="_self">Servidor DHCP</a>
+
 # Porque é importante aprender Linux
 Sistema Operacional Livre e de Código Aberto
 
@@ -84,18 +97,7 @@ Open Source significa que o código-fonte do software é distribuito livremente
 * Altamente personálizavel e configurável
 * Mercado de Trabalho aquecido e com demanda
 
-# Tòpicos
 
-* ## <a href="src/notebooks/README-LINUX.md" target="_self">Linux</a>
-* ## <a href="src/notebooks/README-BD.md" target="_self">Banco de dados</a>
-* ## <a href="src/notebooks/README-REDES.md" target="_self">Configuração de Rede básica</a>
-* ## <a href="src/notebooks/README-EXPR.md" target="_self">Expressões Regulares</a>
-* ## <a href="src/notebooks/README-DISCOS.md" target="_self">Gerenciamento de Discos</a>
-* ## <a href="src/notebooks/README-PACOTES.md" target="_self">Gerenciamento de Pacotes</a>
-* ## <a href="src/notebooks/README-USER-GRP.md" target="_self">Gerenciamento de Usuário e Grupos</a>
-* ## <a href="src/notebooks/README-GRUB.md" target="_self">GRUB</a>
-* ## <a href="src/notebooks/README-NUVEM.md" target="_self">Nuvem e Maquina Virtual</a>
-* ## <a href="src/notebooks/README-DHCP.md" target="_self">Servidor DHCP</a>
 
 # Licença
 Veja ```licença``` para mais informações.
