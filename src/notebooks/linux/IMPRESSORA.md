@@ -78,4 +78,5 @@ Username: root
 Password: ****
 
 Add Printer
+
 **Connection**: smb://[ip_windows]/[nome_impressora_compartilhada]
