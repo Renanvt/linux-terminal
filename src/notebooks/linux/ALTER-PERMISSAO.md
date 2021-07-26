@@ -1,6 +1,6 @@
-Comando chmod - alterar as permissões de acesso a arquivo e diretórios no linux
+# Comando chmod - alterar as permissões de acesso a arquivo e diretórios no linux
 
-Modo de permissões octal
+# Modo de permissões octal
 
 Sintaxe:
 
@@ -39,7 +39,7 @@ r-- Permissão somente de leitura
 Ao total temos 8 valores possíveis de valores de permissões
 
 <br/>
-rw- Permissão de **leitura e escrita**
+rw - Permissão de **leitura e escrita**
 
 110 = bin -> dec = 4 + 2 = `6`
 
@@ -54,7 +54,7 @@ rwx    rw-    rw-
 
 111    110    110
 
-7          6        6
+`7          6        6`
 
 **766** - Proprietário do arquivo tem permissão total, o grupo só de leitura e escrita, e outros de leitura e escrita
 
@@ -66,6 +66,6 @@ rw-    r--    ---
 
 110   100  000
 
-6        4        0
+`6        4        0`
 
 **640** - O proprietário lê e escreve, o grupo só lê, e outros não tem permissão de acesso
