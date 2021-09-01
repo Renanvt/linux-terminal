@@ -26,6 +26,7 @@ sudo add-apt-repository \
    $(lsb_release -cs) \
    stable"
 ```
+Instala o docker
 
 ```bash
  $ sudo apt-get update
