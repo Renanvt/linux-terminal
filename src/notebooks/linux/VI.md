@@ -19,12 +19,15 @@ vi /home/wolmir/meu-arquivo
 Separei uma lista com os principais comandos que permite navegar dentro de um arquivo usando vi. Veja:
 
 ![NavegaçãoVI](../../img/vi.png)
+
 ![NavegaçãoVI](../../img/vi2.png)
 
 # Alguns outros comandos:
 
 ![NavegaçãoVI](../../img/vi3.png)
+
 ![NavegaçãoVI](../../img/vi4.png)
+
 ![NavegaçãoVI](../../img/vi5.png)
 
 # Inserir caracteres especiais
